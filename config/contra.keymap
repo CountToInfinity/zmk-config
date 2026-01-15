@@ -41,7 +41,7 @@
           >;
         };layer6 {
           bindings = <
-          &trans &none &none &trans &trans &trans &trans &trans &trans &trans &trans &kp DELETE &trans &trans MU_NEXT AU_ON AU_OFF &none &none &none &none &none &to 5 &trans &trans AU_PREV AU_NEXT MU_ON MU_OFF MI_ON MI_OFF &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+          &trans &none &none &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &none &none &none &none &none &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
           >;
         };
     };
